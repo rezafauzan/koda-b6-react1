@@ -1,5 +1,9 @@
 # Create React App with Vite
 create react app with vite from scratch manually create folder structure and install its dependencies
+
+## Screenshoot
+![React Vite App Screenshoot](/src/assets/screenshoot.png)
+
 ## install react di project nodeJs
 - npm init 
 - create file .gitignore
