@@ -32,3 +32,9 @@ export default defineConfig({
 - import di vite.config.js tambahkan plugins nya
 - di style.css tambahkan @import "tailwindcss"
 - import style.css di main.jsx
+
+## How to run it
+- simply just download the source code
+- make sure have nodejs v24.13.0 LTS on your computer
+- run npm install
+- npx vite || npm run dev
